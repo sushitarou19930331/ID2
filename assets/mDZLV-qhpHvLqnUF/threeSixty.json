@@ -1,0 +1,27 @@
+{
+  "version": "3.77.30587.0",
+  "course_id": "5dv982aj94g_course_id",
+  "title": "chatgpt_building_final_FIB",
+  "thumbnail": "story_content/thumbnail.jpg",
+  "scenes": [
+    {
+      "title": "Untitled Scene"
+    }
+  ],
+  "slides": [
+    {
+      "id": "6VSQ0LfiBGo",
+      "title": "Pick One",
+      "scene_index": "1.1"
+    }
+  ],
+  "player": {
+    "name": "unified",
+    "width": 740,
+    "height": 611
+  },
+  "stage": {
+    "width": 720,
+    "height": 540
+  }
+}
